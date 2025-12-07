@@ -1,7 +1,7 @@
 # TMF - Digital Forensics Analysis Tool
 
 A PyQt6-based GUI application for digital forensics analysis, featuring multiple modules for mobile device analysis, network monitoring, and malware detection.
-
+<img width="1920" height="1048" alt="image" src="https://github.com/user-attachments/assets/0f1586f4-318d-43f1-8b8c-053b4924b053" />
 ## Features
 
 ### Main Modules:
@@ -9,21 +9,25 @@ A PyQt6-based GUI application for digital forensics analysis, featuring multiple
    - Mobile Triaging & Analysis
    - Live Log Analysis
    - Live Analysis
+<img width="1920" height="1048" alt="image" src="https://github.com/user-attachments/assets/6e86b3bd-9394-4826-9996-7fd3b4aeb021" />
 
 2. **iOS Device Analysis**
    - Mobile Triaging & Analysis
    - Live Log Analysis
    - Stix File Based malware analysis
+<img width="1920" height="1048" alt="image" src="https://github.com/user-attachments/assets/683410a1-e455-49ce-a05f-ac108a670cb6" />
 
 3. **Live Network Analysis**
    - Live Network Monitoring
 
 4. **Mobile Malware Analysis**
    - IPV Spyware Discovery (ISDi)
+<img width="1920" height="1048" alt="image" src="https://github.com/user-attachments/assets/275101e3-cd12-479f-abb1-881c313a77cc" />
 
 5. **SD Card Acquisition & Analysis**
    - SD Card Acquisition
    - Analysis
+<img width="1920" height="1048" alt="image" src="https://github.com/user-attachments/assets/ba1956d1-c31b-40ff-8e17-279d910a510b" />
 
 ## Installation
 
