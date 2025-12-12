@@ -2,6 +2,8 @@
 
 A PyQt6-based GUI application for digital forensics analysis, featuring multiple modules for mobile device analysis, network monitoring, and malware detection.
 <img width="1920" height="1048" alt="image" src="https://github.com/user-attachments/assets/0f1586f4-318d-43f1-8b8c-053b4924b053" />
+
+*In accordance with client confidentiality policies, the source code cannot be shared. This repository provides a high-level demonstration of the project for reference purposes.*
 ## Features
 
 ### Main Modules:
